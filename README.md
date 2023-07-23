@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishal_Chaubey
-- 👀 I’m interested in App Developer 
+- 👀 I’m interested in java developer , application developer
 - 🌱 I’m currently Working as an App Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
