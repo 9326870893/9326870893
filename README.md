@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Vishal_Chaubey
-- 👀 I’m interested in java developer , application developer,Web Developer
-- 🌱 I’m currently Working as an App Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Frontend:html, css javascript, React js, node js, TailwindCSS,bootstarp, TypeScript
+-Backend: Node.js, Express, 
+-Database: Mysql , Ms-Sql
+-Authentication: Clerk, JWT
+-Other Tools: Vite, VS Code, Git
 
 <!---
 9326870893/9326870893 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
